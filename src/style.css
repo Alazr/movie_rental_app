@@ -1,0 +1,12 @@
+.navbar-brand {
+  margin-left: 10px;
+}
+.row {
+  margin-top: 3rem;
+}
+.list-group-item {
+  cursor: pointer;
+}
+.form-group {
+  margin: 1rem 0;
+}
